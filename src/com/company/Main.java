@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Hello world 2222");
 
         Auto auto = new Auto();
+        System.out.println("Hello");
 
         System.out.println("Test2");
     }
